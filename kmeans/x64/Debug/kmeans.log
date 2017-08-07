@@ -1,0 +1,15 @@
+﻿  Source.cpp
+c:\users\eviat\documents\visual studio 2015\projects\kmeans - paralleled with algorithm v2\kmeans\source.cpp(66): warning C4101: 'tid': unreferenced local variable
+c:\users\eviat\documents\visual studio 2015\projects\kmeans - paralleled with algorithm v2\kmeans\source.cpp(64): warning C4101: 'tempClosestDistance': unreferenced local variable
+c:\users\eviat\documents\visual studio 2015\projects\kmeans - paralleled with algorithm v2\kmeans\source.cpp(63): warning C4101: 'closestKlusterNumber': unreferenced local variable
+c:\users\eviat\documents\visual studio 2015\projects\kmeans - paralleled with algorithm v2\kmeans\source.cpp(64): warning C4101: 'closestDistance': unreferenced local variable
+c:\users\eviat\documents\visual studio 2015\projects\kmeans - paralleled with algorithm v2\kmeans\source.cpp(325): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\eviat\documents\visual studio 2015\projects\kmeans - paralleled with algorithm v2\kmeans\source.cpp(311): warning C4101: 'end': unreferenced local variable
+c:\users\eviat\documents\visual studio 2015\projects\kmeans - paralleled with algorithm v2\kmeans\source.cpp(311): warning C4101: 'start': unreferenced local variable
+c:\users\eviat\documents\visual studio 2015\projects\kmeans - paralleled with algorithm v2\kmeans\source.cpp(347): warning C4101: 'i': unreferenced local variable
+  kmeans.vcxproj -> C:\Users\eviat\Documents\Visual Studio 2015\Projects\kmeans - paralleled with algorithm v2\x64\Debug\kmeans.exe
+  kmeans.vcxproj -> C:\Users\eviat\Documents\Visual Studio 2015\Projects\kmeans - paralleled with algorithm v2\x64\Debug\kmeans.pdb (Full PDB)
+  copy "C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v8.0\bin\cudart*.dll" "C:\Users\eviat\Documents\Visual Studio 2015\Projects\kmeans - paralleled with algorithm v2\x64\Debug\"
+  C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v8.0\bin\cudart32_80.dll
+  C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v8.0\bin\cudart64_80.dll
+          2 file(s) copied.
